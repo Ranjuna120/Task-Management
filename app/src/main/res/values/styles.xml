@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CustomTimePickerTheme" parent="Theme.AppCompat.Light">
+        <item name="android:textSize">30sp</item> <!-- Adjust the size as needed -->
+    </style>
+
+</resources>

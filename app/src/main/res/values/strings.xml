@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name" translatable="false">HABITFLOW</string>
+    <string name="Home">Home</string>
+    <string name="textView1" translatable="false">Hi Sakith</string>
+    <string name="notification">notification</string>
+    <string name="settingsBtn">Settings</string>
+    <string name="logoutBtn">Log out</string>
+    <string name="journal">Tasks</string>
+    <string name="textViewDash">Home</string>
+    <string name="editText">write your first entry</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="my_reviews">My reviews</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="hid">Alarm</string>
+    <string name="Todo">ToDo</string>
+    <string name="btn_add_habit">Add New Habit</string>
+    <string name="allhabits">All Habits</string>
+    <string name="timer">Timer</string>
+    <string name="account_settings2">Edit profile</string>
+    <string name="complete">Completed Tasks</string>
+    <string name="et_name">Full Name</string>
+    <string name="tv_sign_up_title">Register</string>
+    <string name="et_email">Email</string>
+    <string name="et_password">Password</string>
+    <string name="et_confirm_password">Confirm Password</string>
+    <string name="btn_sign_up">Register</string>
+    <string name="tv_login">Already have an account? Log in</string>
+    <string name="s1">Account Settings</string>
+    <string name="s2">Change Password</string>
+    <string name="s3">Manage Subscriptions</string>
+    <string name="s4">Notifications</string>
+    <string name="s5">Push Notifications</string>
+    <string name="s6">Email Notifications</string>
+    <string name="s7">Privacy</string>
+    <string name="s8">Privacy Policy</string>
+    <string name="s9">Terms  Conditions</string>
+    <string name="s10">Delete Account</string>
+    <string name="start">Start</string>
+    <string name="tv_sign_in_title">Sign In</string>
+    <string name="btn_sign_in">Sign In</string>
+    <string name="tv_register">Don\'t have an account? Register</string>
+    <string name="ibtn_register">Register</string>
+
+</resources>
